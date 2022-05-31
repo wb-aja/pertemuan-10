@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "887225218436",
+    "project_id": "pertemuan1-7a104",
+    "storage_bucket": "pertemuan1-7a104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887225218436:android:c4992ef3918e51b452d9d1",
+        "android_client_info": {
+          "package_name": "com.wildan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887225218436-vnes0btj83e5audjlhv525b2kh8tm4k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhneExORhogbLIatlFwFVdhqJsStZPns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887225218436-vnes0btj83e5audjlhv525b2kh8tm4k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887225218436:android:3607e9355bef1d4152d9d1",
+        "android_client_info": {
+          "package_name": "com.wildan.pertemuan10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887225218436-vnes0btj83e5audjlhv525b2kh8tm4k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhneExORhogbLIatlFwFVdhqJsStZPns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887225218436-vnes0btj83e5audjlhv525b2kh8tm4k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
